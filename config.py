@@ -106,7 +106,7 @@ You have file options.
     <i>Pass a live stream url or any direct url to play it as stream.</i>
  5. Import an old playlist.
     Command: <b>/import</b>
-    <i>Reply to a previously exported plaulist file. </i>
+    <i>Reply to a previously exported playlist file. </i>
 
 <b>How Can I Control Player?</b>
 These are commands to control player.
@@ -132,12 +132,14 @@ These are commands to control player.
     <i>To export current playlist for future use.</i>
 
 <b>Other Commands</b>
- 1. Update and restert the bot.
+ 1. Update and restart the bot.
     Command: <b>/update</b> or <b>/restart</b>
  2. Get Logs
     Command: <b>/logs</b>
 
 <b>How Can I Stream In My Group</b>
-  <i>The source code of this bot is public and can be found at <a href=https://github.com/subinps/VCPlayerBot>VCPlayerBot.</a>\nYou can deploy your own bot and use in your group.</i>
+  <i>The source code of this bot is public and can be found at 
+  <a href=https://github.com/jinspalakkattu/VCPlayerBot>VCPlayerBot.</a>
+  \nYou can deploy your own bot and use in your group.</i>
 
 """
